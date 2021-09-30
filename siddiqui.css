@@ -1,0 +1,46 @@
+.state{
+font-family: 'Courier New', Courier, monospace;
+background-color: burlywood;
+
+}
+
+
+.larger{
+    background-color: rgb(8, 8, 8); ;
+    font-weight: 700;
+    font-size: 45px;
+    font-style: italic;
+    color: azure;
+    text-align: center;
+    
+    margin-left: 250px;
+    margin-right: 350px;
+}
+
+
+.logo{
+    border: 1px solid #ddd;
+    width: 200px;
+    
+}
+.adress
+{
+    margin-left:  400px;
+}
+  .officeimage
+  {
+    width: 900px;  
+    height: 700px;
+    
+    margin-left: 400px;
+    
+  
+}
+  
+ 
+
+body{
+    
+ background-image: url("brick-wall-dark.png") ;
+ background-color: rgb(196, 75, 75);
+}
